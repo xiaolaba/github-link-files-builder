@@ -6,7 +6,6 @@
 ![hack/R1R3_bottom.jpg](hack/R1R3_bottom.jpg)  
 ![hack/R1R3_diff.JPG](hack/R1R3_diff.JPG)  
 ![hack/R1R3_top.jpg](hack/R1R3_top.jpg)  
-![hack/temp.txt](hack/temp.txt)  
 ![hack/UNO_8U2_16U2_DFU.pdf](hack/UNO_8U2_16U2_DFU.pdf)  
 ![hack/uno_diode.jpg](hack/uno_diode.jpg)  
 ![hack/uno_faulty_board.jpg](hack/uno_faulty_board.jpg)  
